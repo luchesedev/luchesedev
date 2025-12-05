@@ -1,4 +1,4 @@
-## Olá eu sou Pedro Luchese 👋 | Hi there im Pedro Luchese  👋
+## Hi there im Pedro Luchese  👋
 
 🔭 Systems analysis and development student | Estudande de análise e desenvolvimento de sistemas |
 
@@ -8,7 +8,7 @@
  
 😄 He/him | Ele/Dele |
 
-⚡ tech enthusiast | apaixonado por tecnologia|
+⚡ tech enthusiast | apaixonado por tecnologia |
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
