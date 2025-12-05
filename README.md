@@ -54,6 +54,4 @@
 
 🔗 [LinkedIn](www.linkedin.com/in/pedro-luchese-)
 
----
-
 ##
