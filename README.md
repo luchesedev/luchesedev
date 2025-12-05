@@ -1,4 +1,6 @@
-## Hi there im Pedro Luchese  👋
+---
+ Hi, im Pedro Luchese  👋
+---
 
 🔭 Systems analysis and development student 
 
@@ -6,11 +8,12 @@
 
 🤔 Doing CS50x 2025 course  / Learning front-end and back-end frameworks / Data structure / SQL / java / python 
  
-😄 He/him 
-
 ⚡ tech enthusiast 
 
 ---
+
+## 💻 Languages
+
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -23,9 +26,8 @@
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">  
 </div>
 
-
-
 ---
+## 📊 status
 <p align="center">
   <a href="https://github.com/luchesedev">
     <img 
@@ -45,3 +47,10 @@
     />
   </a>
 </p>
+
+## 
+---
+## 🛠️ Links
+
+🔗 [LinkedIn](www.linkedin.com/in/pedro-luchese-)
+---
