@@ -28,9 +28,17 @@
 ---
 
 
-<div style="display: flex; gap: 10px;">
-  <img width="405" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=luchesedev&show_icons=true&theme=tokyonight" />
-  <img width="398" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=luchesedev&layout=compact&theme=tokyonight" />
-</div>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  
+  <img 
+    width="395"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=luchesedev&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 
+  <img 
+    width="395"
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=luchesedev&layout=compact&theme=tokyonight&hide_border=true"
+  />
+
+</div>
 
