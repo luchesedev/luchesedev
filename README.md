@@ -26,19 +26,22 @@
 
 
 ---
-
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<p align="center">
+  <a href="https://github.com/luchesedev">
+    <img 
+      src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=luchesedev&show_icons=true&theme=tokyonight&hide_border=true" 
+      alt="Estatísticas do GitHub"
+      width="48%" 
+      style="margin-right: 1%; margin-left: 1%;" 
+    />
+  </a>
   
-  <img 
-    width="395"
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=luchesedev&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img 
-    width="395"
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=luchesedev&layout=compact&theme=tokyonight&hide_border=true"
-  />
-
-</div>
-
+  <a href="https://github.com/luchesedev">
+    <img 
+      src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=luchesedev&layout=compact&theme=tokyonight&hide_border=true" 
+      alt="Linguagens Mais Usadas"
+      width="48%" 
+      style="margin-right: 1%; margin-left: 1%;" 
+    />
+  </a>
+</p>
