@@ -4,7 +4,7 @@
 
 🌱 front-end and back-end projects | projetos front-end e back-end |
 
-🤔 Doing CS50x 2025 course  / Learning front-end and back-end frameworks / Data structure / SQL / java / python | Fazendo o curso CS50x 2025/Aprendendo frameworks front-end e back-end  / estrutura de dados / SQL / java / Python |
+🤔 Doing CS50x 2025 course  / Learning front-end and back-end frameworks / Data structure / SQL / java / python | Fazendo o curso CS50x 2025/Aprendendo frameworks front-end e back-end  / Estrutura de dados / SQL / Java / Python |
  
 😄 He/him | Ele/Dele |
 
@@ -16,11 +16,17 @@
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
-  
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">  
 </div>
 
-
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luchesedev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
