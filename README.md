@@ -28,22 +28,22 @@
 ---
 
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=luchesedev&show_icons=true&theme=tokyonight" 
-  />
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img 
+        height="200" 
+        src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=luchesedev&show_icons=true&theme=tokyonight&hide_border=true" 
+      />
+    </td>
+    <td>
+      <img 
+        height="200" 
+        src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=luchesedev&layout=compact&theme=tokyonight&hide_border=true" 
+      />
+    </td>
+  </tr>
+</table>
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=luchesedev&layout=compact&theme=tokyonight" 
-  />
 
-</p>
 
