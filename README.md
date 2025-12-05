@@ -4,11 +4,11 @@
 
 🔭 Systems analysis and development student 
 
-🌱 front-end and back-end projects 
+🌱 Front-end and back-end projects 
 
 🤔 Doing CS50x 2025 course  / Learning front-end and back-end frameworks / Data structure / SQL / java / python 
  
-⚡ tech enthusiast 
+⚡ Tech enthusiast 
 
 ---
 
@@ -53,7 +53,5 @@
 ## 🛠️ Links
 
 🔗 [LinkedIn](www.linkedin.com/in/pedro-luchese-)
-
----
 
 ##
