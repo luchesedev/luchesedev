@@ -43,10 +43,8 @@
 ---
 ## 🛠️ Links
 
-<a href="www.linkedin.com/in/pedro-luchese-" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-
-🔗 [LinkedIn](www.linkedin.com/in/pedro-luchese-)
+  <a href="https://www.linkedin.com/in/pedro-luchese-/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
 
 ##
