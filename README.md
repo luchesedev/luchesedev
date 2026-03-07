@@ -30,8 +30,35 @@
 ## 📊 status
 
 <p align="center">
-  <a href="https://github.com/luchesedev"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=luchesedev&show_icons=true&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/luchesedev"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchesedev&layout=compact&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/luchesedev">
+    <img 
+      src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=luchesedev&show_icons=true&theme=tokyonight&hide_border=true" 
+      alt="Estatísticas do GitHub"
+      width="48%" 
+      style="margin-right: 1%; margin-left: 1%;" 
+    />
+  </a>
+
+  <a href="https://github.com/luchesedev">
+    <img 
+      src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=luchesedev&layout=compact&theme=tokyonight&hide_border=true" 
+      alt="Linguagens Mais Usadas"
+      width="48%" 
+      style="margin-right: 1%; margin-left: 1%;" 
+    />
+  </a>
+</p>
+
+
+
+
+<p align="center">
+  <a href="https://github.com/luchesedev">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=luchesedev&show_icons=true&theme=tokyonight&hide_border=true&v=3" />
+  </a>
+  <a href="https://github.com/luchesedev">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchesedev&layout=compact&theme=tokyonight&hide_border=true&v=3" />
+  </a>
 </p>
 
 ## 
