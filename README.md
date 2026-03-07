@@ -29,15 +29,15 @@
 ---
 ## 📊 status
 
-
 <p align="center">
   <a href="https://github.com/luchesedev">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=luchesedev&show_icons=true&theme=tokyonight&hide_border=true&cache=true" />
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luchesedev&show_icons=true&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/luchesedev">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchesedev&layout=compact&theme=tokyonight&hide_border=true&cache=true" />
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luchesedev&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
 
 ## 
 ---
