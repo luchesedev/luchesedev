@@ -70,14 +70,14 @@
         <strong>🐾 Amigos da Mia</strong><br>
         Site responsivo para ONG de adoção animal (Projeto ADOPTME 2025) com foco em UI/UX e acessibilidade.
         <br><br>
-        <a href="">Ver Repositório</a>
+        <a href="https://github.com/luchesedev/adopt-me">Ver Repositório</a>
       </td>
       <td width="50%" align="center">
         <img src="https://img.shields.io/badge/Hardware-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /><br>
         <strong>🖨️ 3D Printer Build</strong><br>
         Projeto colaborativo de montagem de uma impressora 3D do zero, integrando hardware e software.
         <br><br>
-        <a href="https://github.com/luchesedev/adopt-me">Projeto Interno / FATEC</a>
+        <a href="">Projeto Interno / FATEC</a>
       </td>
     </tr>
   </table>
