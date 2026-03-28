@@ -54,14 +54,14 @@
         <strong>🍕 Bella Napolli App</strong><br>
         Sistema de pedidos mobile com cálculo de extrato em tempo real, manipulação de Intents e persistência de dados.
         <br><br>
-        <a href="LINK_DO_SEU_REPOSITORIO_PIZZA">Ver Repositório</a>
+        <a href="https://github.com/luchesedev/Bella-Napoli">Ver Repositório</a>
       </td>
 <td width="50%" align="center">
   <img src="https://img.shields.io/badge/Java-Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br>
   <strong>📓 Caderno de Exercícios POO</strong><br>
   Coleção de algoritmos e desafios de POO implementados com interfaces gráficas utilizando <code>JFrame</code>, <code>JOptionPane</code> e gerenciamento de eventos.
   <br><br>
-  <a href="LINK_DO_SEU_REPOSITORIO_JAVA">Ver Repositório</a>
+  <a href="https://github.com/luchesedev/Exercicios-POO-java">Ver Repositório</a>
 </td>
     </tr>
     <tr>
@@ -70,14 +70,14 @@
         <strong>🐾 Amigos da Mia</strong><br>
         Site responsivo para ONG de adoção animal (Projeto ADOPTME 2025) com foco em UI/UX e acessibilidade.
         <br><br>
-        <a href="LINK_DO_SEU_REPOSITORIO_ADOPT">Ver Repositório</a>
+        <a href="">Ver Repositório</a>
       </td>
       <td width="50%" align="center">
         <img src="https://img.shields.io/badge/Hardware-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /><br>
         <strong>🖨️ 3D Printer Build</strong><br>
         Projeto colaborativo de montagem de uma impressora 3D do zero, integrando hardware e software.
         <br><br>
-        <a href="#">Projeto Interno / FATEC</a>
+        <a href="https://github.com/luchesedev/adopt-me">Projeto Interno / FATEC</a>
       </td>
     </tr>
   </table>
