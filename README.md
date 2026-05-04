@@ -78,7 +78,7 @@
 ## 🛠️ Links
 
  <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-luchese-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/pedro-luchese-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pedroluchese@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"></a>
 </p>
 
