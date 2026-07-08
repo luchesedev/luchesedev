@@ -59,7 +59,7 @@
     <tr>
       <td width="50%" align="center">
         <img src="https://img.shields.io/badge/Web-Responsive-orange?style=for-the-badge&logo=html5&logoColor=white" /><br>
-        <strong>🐾 Amigos da Mia</strong><br>
+        <strong>🐾 Adopt Me</strong><br>
         Site responsivo para ONG de adoção animal (Projeto ADOPTME 2025) com foco em UI/UX e acessibilidade.
         <br><br>
         <a href="https://github.com/luchesedev/adopt-me">Ver Repositório</a>
